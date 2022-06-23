@@ -2224,7 +2224,6 @@ SMG爆笑舞臺,http://jvc.ueuo.com/kds/huyatest3.php?id=11352937
 樂視旅遊攻略,http://hlslive.video.iqiyi.com/tslive/c57_lb_206_600_t10/c57_lb_206_600_t10.m3u8?pv=0.2&qd_tvid=2764764865111823&qd_vipres=0&qd_scc=8cd0097d0fb6c4bcaad58dbc97e9f2c7&qd_sc=08415fe5c7b9cfa6ea745db08682f4f4&qd_did=ad7vf4bcq5zjlq7ismb5qan25ldho75m&qd_ip=9f8a89d0&qd_vip=0&qd_uid=0&qd_p=9f8a89d0&qd_src=03020031010000000000&qd_tm=1655801686972&qd_k=a1fdba929834bc67fd4f33bd05a71bb7
 樂視旅遊攻略,http://aliyuncocsouth.inter.iqiyi.com/tslive/c57_lb_206_600_t10/c57_lb_206_600_t10.m3u8
 旅遊頻道,http://jvc.ueuo.com/kds/fjdl1.php?id=8
-旅遊頻道,http://jvc.ueuo.com/kds/fj.php?id=lypd
 亞旅衛視,http://jvc.ueuo.com/kds/ylws.php?id=ylws
 環球旅遊,http://jvc.ueuo.com/kds/nxgd.php?id=hqly
 環球旅遊,http://jvc.ueuo.com/kds/nxgd2.php?id=hqly
