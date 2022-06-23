@@ -11,9 +11,9 @@
 南方綜藝TVS③,rtsp://183.59.146.146:554/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EG5fEQeO2yT2LgijcyazKdg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20190828180828%2C28265443%2C10.174.172.204%2C20190828180828%2C02000006000000052017120499000001%2C2826544320190828180828%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601&from=234&hms_devid=68684&prioritypopid=234&online=1566988983
 南方綜藝TVS③,rtsp://183.59.214.85:554/PLTV/88888905/224/3221229717/10000100000000060000000008643415_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=b5LbpWRcQAP+F8r2qnj37NPUiNqRA7uSEE/KhMKN4oQVhERX4OG8p5VKQG70qKlnKW91cvRwLmE+xdfMCbu+cl6Mh5syoK+A2vgCP+485XNoaLEX2rqUy2NuUIeFA1kiELt2nMQGVaZntBV/BCkdJg==:20190718163737,02012345678,113.85.10.1,20190718163737,02000006000000052017112999000001,05AC155D3555080A3ADCCA1E66257EA9,-1,0,1,,,2,,,,2,END&from=303&hms_devid=69864&online=1563440039/
 南方綜藝TVS③,http://jvc.ueuo.com/kds/touchtv.php?id=1198
-南方影STVS④,rtsp://183.59.214.86:554/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=b5LbpWRcQAP+F8r2qnj37NPUiNqRA7uSEE/KhMKN4oQVhERX4OG8p5VKQG70qKlnKW91cvRwLmE+xdfMCbu+cl6Mh5syoK+A2vgCP+485XNoaLEX2rqUy2NuUIeFA1kig4aqMgH0ZT2GFYzxf7acbg==:20190718163737,02012345678,113.85.10.1,20190718163737,02000001000000050000000000000011,05AC155D3555080A3ADCCA1E66257EA9,-1,0,1,,,2,,,,2,END&from=303&hms_devid=72787&online=1563439966/
-南方影STVS④,http://jvc.ueuo.com/kds/touchtv.php?id=1199
-南方影STVS④,http://183.239.206.232:9901/tsfile/live/1013_1.m3u8
+南方影視TVS④,rtsp://183.59.214.86:554/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=b5LbpWRcQAP+F8r2qnj37NPUiNqRA7uSEE/KhMKN4oQVhERX4OG8p5VKQG70qKlnKW91cvRwLmE+xdfMCbu+cl6Mh5syoK+A2vgCP+485XNoaLEX2rqUy2NuUIeFA1kig4aqMgH0ZT2GFYzxf7acbg==:20190718163737,02012345678,113.85.10.1,20190718163737,02000001000000050000000000000011,05AC155D3555080A3ADCCA1E66257EA9,-1,0,1,,,2,,,,2,END&from=303&hms_devid=72787&online=1563439966/
+南方影視TVS④,http://jvc.ueuo.com/kds/touchtv.php?id=1199
+南方影視TVS④,http://183.239.206.232:9901/tsfile/live/1013_1.m3u8
 南方少兒TVS⑤,rtsp://183.59.214.85:554/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=b5LbpWRcQAP+F8r2qnj37NPUiNqRA7uSEE/KhMKN4oQVhERX4OG8p5VKQG70qKlnKW91cvRwLmE+xdfMCbu+cl6Mh5syoK+A2vgCP+485XNoaLEX2rqUy2NuUIeFA1kiO3egSCp2qakIUg0J1v2UdQ==:20190718163737,02012345678,113.85.10.1,20190718163737,02000001000000050000000000000012,05AC155D3555080A3ADCCA1E66257EA9,-1,0,1,,,2,,,,2,END&from=303&hms_devid=69864&online=1563439987/
 南方少兒TVS⑤,http://jvc.ueuo.com/kds/touchtv.php?id=1200
 南方少兒TVS⑤,http://183.239.206.232:9901/tsfile/live/1014_1.m3u8
@@ -69,14 +69,14 @@ IPTV戲曲,http://jvc.ueuo.com/kds/as.php?id=xq
 廣州綜合,https://aplay.gztv.com/sec/zhonghe.m3u8
 廣州綜合,http://aplay.gztv.com/sec/zhonghe.flv
 廣州綜合,http://116.199.5.251/hls/gzds.m3u8
-廣州影S,http://jvc.ueuo.com/kds/tianma.php?id=gzys
-廣州影S,http://jvc.ueuo.com/kds/gzdst.php?id=gzys
-廣州影S,http://jvc.ueuo.com/kds/gswtv.php?id=gzys
-廣州影S,http://jvc.ueuo.com/kds/gzt.php?id=6
-廣州影S,http://jvc.ueuo.com/kds/gsw.php?id=yingshi
-廣州影S,https://aplay.gztv.com/sec/yingshi.m3u8
-廣州影S,https://aplay.gztv.com/sec/yingshi.flv
-廣州影S,http://116.199.5.251/hls/gzys.m3u8
+廣州影視,http://jvc.ueuo.com/kds/tianma.php?id=gzys
+廣州影視,http://jvc.ueuo.com/kds/gzdst.php?id=gzys
+廣州影視,http://jvc.ueuo.com/kds/gswtv.php?id=gzys
+廣州影視,http://jvc.ueuo.com/kds/gzt.php?id=6
+廣州影視,http://jvc.ueuo.com/kds/gsw.php?id=yingshi
+廣州影視,https://aplay.gztv.com/sec/yingshi.m3u8
+廣州影視,https://aplay.gztv.com/sec/yingshi.flv
+廣州影視,http://116.199.5.251/hls/gzys.m3u8
 廣州法制,http://jvc.ueuo.com/kds/tianma.php?id=gzfz
 廣州法制,http://jvc.ueuo.com/kds/gzdst.php?id=gzfz
 廣州法制,http://jvc.ueuo.com/kds/gswtv.php?id=gzfz
@@ -180,10 +180,10 @@ IPTV戲曲,http://jvc.ueuo.com/kds/as.php?id=xq
 長沙女性頻道,http://jvc.ueuo.com/kds/ady3.php?id=csnx
 長沙女性頻道,http://jvc.ueuo.com/kds/ady2.php?id=csnx
 長沙女性頻道,http://jvc.ueuo.com/kds/csxsj.php?id=csnx
-長沙影S頻道,http://jvc.ueuo.com/kds/gdy.php?id=csys
-長沙影S頻道,http://jvc.ueuo.com/kds/ady3.php?id=csys
-長沙影S頻道,http://jvc.ueuo.com/kds/ady2.php?id=csys
-長沙影S頻道,http://jvc.ueuo.com/kds/csxsj.php?id=csys
+長沙影視頻道,http://jvc.ueuo.com/kds/gdy.php?id=csys
+長沙影視頻道,http://jvc.ueuo.com/kds/ady3.php?id=csys
+長沙影視頻道,http://jvc.ueuo.com/kds/ady2.php?id=csys
+長沙影視頻道,http://jvc.ueuo.com/kds/csxsj.php?id=csys
 長沙磁浮移動電視,http://jvc.ueuo.com/kds/ady3.php?id=csydcf
 長沙磁浮移動電視,http://jvc.ueuo.com/kds/ady2.php?id=csydcf
 長沙地鐵移動電視,http://jvc.ueuo.com/kds/ady3.php?id=csyddt
@@ -419,7 +419,7 @@ CCTV-6,http://jvc.ueuo.com/kds/yzxl.php?id=cctv6
 CCTV-6,http://jvc.ueuo.com/kds/miguak.php?id=cctv6
 CCTV-6,http://jvc.ueuo.com/kds/sxtv.php?id=cctv6
 CCTV-6,http://jvc.ueuo.com/kds/csxsj.php?id=cctv6
-北京影S,http://jvc.ueuo.com/kds/btime_app.php?id=btvys
+北京影視,http://jvc.ueuo.com/kds/btime_app.php?id=btvys
 CCTV-7,http://live.tvfix.org/hls/cctv7hd.m3u8
 CCTV-7,http://183.239.206.232:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://jvc.ueuo.com/kds/yqgd.php?id=125
@@ -971,7 +971,7 @@ CIBN古裝劇場,http://jvc.ueuo.com/kds/miguak.php?id=cibngzjc
 CIBN驕陽劇場,http://jvc.ueuo.com/kds/miguak.php?id=cibnjyjc
 CIBN流金歲月,http://jvc.ueuo.com/kds/miguak.php?id=cibnljsy
 DOX TV音像世界,http://jvc.ueuo.com/kds/jxgd.php?id=126
-精彩影S,http://jvc.ueuo.com/kds/jxgd.php?id=149
+精彩影視,http://jvc.ueuo.com/kds/jxgd.php?id=149
 CBN每日影院,http://jvc.ueuo.com/kds/jxgd.php?id=565
 CBN幸福劇場,http://jvc.ueuo.com/kds/jxgd.php?id=566
 CBN幸福娛樂,http://jvc.ueuo.com/kds/jxgd.php?id=567
@@ -1525,9 +1525,9 @@ BS 東京,http://203.162.235.41:16915
 BS 日テレ,http://203.162.235.41:16912
 日テレ,http://203.162.235.41:16905
 WOWOW シネマ,http://203.162.235.41:16916
-餓夢影S,http://jvc.ueuo.com/kds/douyu.php?id=24886896
-餓夢影S,http://jvc.ueuo.com/kds/douyu2.php?id=24886896
-餓夢影S,http://jvc.ueuo.com/kds/douyu3.php?id=24886896
+餓夢影視,http://jvc.ueuo.com/kds/douyu.php?id=24886896
+餓夢影視,http://jvc.ueuo.com/kds/douyu2.php?id=24886896
+餓夢影視,http://jvc.ueuo.com/kds/douyu3.php?id=24886896
 電影最TOP,http://jvc.ueuo.com/kds/huyatest.php?id=topfilm
 電影最TOP,http://jvc.ueuo.com/kds/huyatest2.php?id=topfilm
 電影最TOP,http://jvc.ueuo.com/kds/huyatest3.php?id=topfilm
@@ -1539,9 +1539,9 @@ WOWOW シネマ,http://203.162.235.41:16916
 越哥説電影,http://jvc.ueuo.com/kds/huyatest2.php?id=yuegemovie
 越哥説電影,http://jvc.ueuo.com/kds/huyatest3.php?id=yuegemovie
 越哥説電影,http://tx.hls.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.flv
-楓哥影S,http://jvc.ueuo.com/kds/huyatest.php?id=25007621
-楓哥影S,http://jvc.ueuo.com/kds/huyatest2.php?id=25007621
-楓哥影S,http://jvc.ueuo.com/kds/huyatest3.php?id=25007621
+楓哥影視,http://jvc.ueuo.com/kds/huyatest.php?id=25007621
+楓哥影視,http://jvc.ueuo.com/kds/huyatest2.php?id=25007621
+楓哥影視,http://jvc.ueuo.com/kds/huyatest3.php?id=25007621
 魯班愛看劇,http://jvc.ueuo.com/kds/huyatest.php?id=17139168
 魯班愛看劇,http://jvc.ueuo.com/kds/huyatest2.php?id=17139168
 魯班愛看劇,http://jvc.ueuo.com/kds/huyatest3.php?id=17139168
@@ -1561,9 +1561,9 @@ WOWOW シネマ,http://203.162.235.41:16916
 小鶴仙兒,http://jvc.ueuo.com/kds/huyatest.php?id=24376361
 小鶴仙兒,http://jvc.ueuo.com/kds/huyatest2.php?id=24376361
 小鶴仙兒,http://jvc.ueuo.com/kds/huyatest3.php?id=24376361
-貓哥影S,http://jvc.ueuo.com/kds/huyatest.php?id=23566617
-貓哥影S,http://jvc.ueuo.com/kds/huyatest2.php?id=23566617
-貓哥影S,http://jvc.ueuo.com/kds/huyatest3.php?id=23566617
+貓哥影視,http://jvc.ueuo.com/kds/huyatest.php?id=23566617
+貓哥影視,http://jvc.ueuo.com/kds/huyatest2.php?id=23566617
+貓哥影視,http://jvc.ueuo.com/kds/huyatest3.php?id=23566617
 白丁說電影,http://jvc.ueuo.com/kds/huyatest.php?id=24396428
 白丁說電影,http://jvc.ueuo.com/kds/huyatest2.php?id=24396428
 白丁說電影,http://jvc.ueuo.com/kds/huyatest3.php?id=24396428
@@ -1588,9 +1588,9 @@ WOWOW シネマ,http://203.162.235.41:16916
 小冷說電影,http://jvc.ueuo.com/kds/huyatest.php?id=16739452
 小冷說電影,http://jvc.ueuo.com/kds/huyatest2.php?id=16739452
 小冷說電影,http://jvc.ueuo.com/kds/huyatest3.php?id=16739452
-琪琪影S,http://jvc.ueuo.com/kds/huyatest.php?id=24396404
-琪琪影S,http://jvc.ueuo.com/kds/huyatest2.php?id=24396404
-琪琪影S,http://jvc.ueuo.com/kds/huyatest3.php?id=24396404
+琪琪影視,http://jvc.ueuo.com/kds/huyatest.php?id=24396404
+琪琪影視,http://jvc.ueuo.com/kds/huyatest2.php?id=24396404
+琪琪影視,http://jvc.ueuo.com/kds/huyatest3.php?id=24396404
 良影解說,http://jvc.ueuo.com/kds/huyatest.php?id=24977841
 良影解說,http://jvc.ueuo.com/kds/huyatest2.php?id=24977841
 良影解說,http://jvc.ueuo.com/kds/huyatest3.php?id=24977841
@@ -1631,9 +1631,9 @@ WOWOW シネマ,http://203.162.235.41:16916
 小蘑菇一起看,http://jvc.ueuo.com/kds/huyatest.php?id=11601981
 小蘑菇一起看,http://jvc.ueuo.com/kds/huyatest2.php?id=11601981
 小蘑菇一起看,http://jvc.ueuo.com/kds/huyatest3.php?id=11601981
-七貓影S,http://jvc.ueuo.com/kds/huyatest.php?id=24401498
-七貓影S,http://jvc.ueuo.com/kds/huyatest2.php?id=24401498
-七貓影S,http://jvc.ueuo.com/kds/huyatest3.php?id=24401498
+七貓影視,http://jvc.ueuo.com/kds/huyatest.php?id=24401498
+七貓影視,http://jvc.ueuo.com/kds/huyatest2.php?id=24401498
+七貓影視,http://jvc.ueuo.com/kds/huyatest3.php?id=24401498
 大本有劇,http://jvc.ueuo.com/kds/huyatest.php?id=24401117
 大本有劇,http://jvc.ueuo.com/kds/huyatest2.php?id=24401117
 大本有劇,http://jvc.ueuo.com/kds/huyatest3.php?id=24401117
@@ -1661,9 +1661,9 @@ WOWOW シネマ,http://203.162.235.41:16916
 鹿哥電影,http://jvc.ueuo.com/kds/huyatest.php?id=24396360
 鹿哥電影,http://jvc.ueuo.com/kds/huyatest2.php?id=24396360
 鹿哥電影,http://jvc.ueuo.com/kds/huyatest3.php?id=24396360
-告白影S,http://jvc.ueuo.com/kds/huyatest.php?id=24987877
-告白影S,http://jvc.ueuo.com/kds/huyatest2.php?id=24987877
-告白影S,http://jvc.ueuo.com/kds/huyatest3.php?id=24987877
+告白影視,http://jvc.ueuo.com/kds/huyatest.php?id=24987877
+告白影視,http://jvc.ueuo.com/kds/huyatest2.php?id=24987877
+告白影視,http://jvc.ueuo.com/kds/huyatest3.php?id=24987877
 扁豆電影解說,http://jvc.ueuo.com/kds/huyatest.php?id=bdcmovie
 扁豆電影解說,http://jvc.ueuo.com/kds/huyatest2.php?id=bdcmovie
 扁豆電影解說,http://jvc.ueuo.com/kds/huyatest3.php?id=bdcmovie
@@ -2247,8 +2247,8 @@ SMG爆笑舞臺,http://jvc.ueuo.com/kds/huyatest3.php?id=11352937
 五蓮文化旅遊,http://jvc.ueuo.com/kds/iqilu.php?id=rzwlwh
 青州文化旅遊,http://jvc.ueuo.com/kds/iqilu.php?id=wfqzwh
 沂南溫泉旅遊,http://jvc.ueuo.com/kds/iqilu.php?id=lyynwq
-江蘇六合影S生活,http://jvc.ueuo.com/kds/wzdft.php?id=lhyssh
-江蘇影S,http://jvc.ueuo.com/kds/jstv.php?id=jsys
+江蘇六合影視生活,http://jvc.ueuo.com/kds/wzdft.php?id=lhyssh
+江蘇影視,http://jvc.ueuo.com/kds/jstv.php?id=jsys
 江蘇體育休閒,http://jvc.ueuo.com/kds/jstv.php?id=jsty
 江蘇綜藝,http://jvc.ueuo.com/kds/jstv.php?id=jszy
 幸福彩,http://jvc.ueuo.com/kds/slgd.php?id=142
@@ -2593,9 +2593,9 @@ Justkidding,http://jvc.ueuo.com/kds/huyatest3.php?id=20969139
 現代魯濱遜,http://jvc.ueuo.com/kds/huyatest.php?id=24609810
 現代魯濱遜,http://jvc.ueuo.com/kds/huyatest2.php?id=24609810
 現代魯濱遜,http://jvc.ueuo.com/kds/huyatest3.php?id=24609810
-怪蛋求生影S,http://jvc.ueuo.com/kds/huyatest.php?id=24397098
-怪蛋求生影S,http://jvc.ueuo.com/kds/huyatest2.php?id=24397098
-怪蛋求生影S,http://jvc.ueuo.com/kds/huyatest3.php?id=24397098
+怪蛋求生影視,http://jvc.ueuo.com/kds/huyatest.php?id=24397098
+怪蛋求生影視,http://jvc.ueuo.com/kds/huyatest2.php?id=24397098
+怪蛋求生影視,http://jvc.ueuo.com/kds/huyatest3.php?id=24397098
 戶外美食小王,http://jvc.ueuo.com/kds/huyatest.php?id=19738600
 戶外美食小王,http://jvc.ueuo.com/kds/huyatest2.php?id=19738600
 戶外美食小王,http://jvc.ueuo.com/kds/huyatest3.php?id=19738600
@@ -2914,9 +2914,9 @@ TV巴迪,http://jvc.ueuo.com/kds/huyatest3.php?id=23863796
 yao不要停,http://jvc.ueuo.com/kds/huyatest.php?id=11601980
 yao不要停,http://jvc.ueuo.com/kds/huyatest2.php?id=11601980
 yao不要停,http://jvc.ueuo.com/kds/huyatest3.php?id=11601980
-經典影S廳,http://jvc.ueuo.com/kds/huyatest.php?id=24760642
-經典影S廳,http://jvc.ueuo.com/kds/huyatest2.php?id=24760642
-經典影S廳,http://jvc.ueuo.com/kds/huyatest3.php?id=24760642
+經典影視廳,http://jvc.ueuo.com/kds/huyatest.php?id=24760642
+經典影視廳,http://jvc.ueuo.com/kds/huyatest2.php?id=24760642
+經典影視廳,http://jvc.ueuo.com/kds/huyatest3.php?id=24760642
 強仔電影,http://jvc.ueuo.com/kds/huyatest.php?id=24826822
 強仔電影,http://jvc.ueuo.com/kds/huyatest2.php?id=24826822
 強仔電影,http://jvc.ueuo.com/kds/huyatest3.php?id=24826822
@@ -3091,12 +3091,12 @@ CCTV女性時尚,http://jvc.ueuo.com/kds/miguak.php?id=nxss
 三國演義,http://tx.hls.huya.com/src/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.flv
 成龍歷險記動漫,http://tx.hls.huya.com/src/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8
 動漫大電影,http://tx.hls.huya.com/src/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-影S1,http://tx.hls.huya.com/src/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-影S2,http://tx.hls.huya.com/src/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-影S3,http://tx.hls.huya.com/src/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
-影S4,http://tx.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-影S5,http://tx.hls.huya.com/src/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
-影S6,http://tx.hls.huya.com/src/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+影視1,http://tx.hls.huya.com/src/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+影視2,http://tx.hls.huya.com/src/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+影視3,http://tx.hls.huya.com/src/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+影視4,http://tx.hls.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+影視5,http://tx.hls.huya.com/src/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+影視6,http://tx.hls.huya.com/src/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
 24/7 Hollywood Movies 6,http://tx.hls.huya.com/src/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 24/7 Reality TV 2,http://tx.hls.huya.com/src/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
 Phim TQ (Anh hùng x? ?iêu),http://tx.hls.huya.com/src/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
